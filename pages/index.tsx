@@ -33,7 +33,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         <title>Next.js Conf 2022 Photos</title>
         <meta
           property="og:image"
-          content="https://nextjsconf-pics.vercel.app/og-image.png"
+          content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hg8d64fOF8DejdMZ06oUfNRFR68MqE1L0w&s"
         />
         <meta
           name="twitter:image"
